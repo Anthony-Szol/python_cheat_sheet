@@ -69,12 +69,12 @@ name = input("Please enter your name: ")
 # Print a greeting that includes the entered name
 print("Hello, " + name + "!")
 
-
+# You can do this with numbers too
 i = input("Type 5.1:")
 print(i)
 print(type(i))
 
-# As you notice in the results, the input function created 5.1 into a string.
+# As you notice in the results, the input function created 5.1 as a string.
 # We can convert it with a Type conversion
 # This will convert the 5.1 string into a float
 
