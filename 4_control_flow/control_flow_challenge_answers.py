@@ -14,5 +14,8 @@ elif grade >= 70 and grade <80:
     print("C")
 elif grade >= 60 and grade <70:
     print("D")
-else:
+elif grade < 60:
     print("F")
+# Else is invalid because anything over 100 is not a valid grade
+else:
+    print("Invalid")
