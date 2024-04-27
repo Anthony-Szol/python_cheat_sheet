@@ -10,5 +10,3 @@ while i <= 6:
 
     # update
     i += 1
-
-# For
