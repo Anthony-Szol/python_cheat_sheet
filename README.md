@@ -1,13 +1,13 @@
-Introduction
+Introduction\n
 This project focused on creating a cheat sheet for those interested in learning the basics of python!
 
-The skills in this repository include:
-Basic Python syntax and data types
-Control flow and loops
-String manipulation and list handling
-Working with tuples, dictionaries, and sets
-Defining and using functions
-Object-oriented programming concepts
+The skills in this repository include:\n
+Basic Python syntax and data types\n
+Control flow and loops\n
+String manipulation and list handling\n
+Working with tuples, dictionaries, and sets\n
+Defining and using functions\n
+Object-oriented programming concepts\n
 File handling and error & exception handling
 
 Tools I Used
